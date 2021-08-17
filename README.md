@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Back-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![plot](./image/github.png)
+![plot](https://github.com/mfkartal/kodluyoruzilkrepo/blob/main/img/github.png)
 
 # Installation
 Öncelikle projeyi clonelayın.
